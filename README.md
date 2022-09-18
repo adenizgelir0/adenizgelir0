@@ -1,5 +1,4 @@
 ### Welcome
-Hello my name is Ahmet Deniz. I am a freshman at Bilkent.
 
 
 
