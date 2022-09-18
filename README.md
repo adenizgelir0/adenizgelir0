@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome
+Hello my name is Ahmet Deniz. I am a freshman at Bilkent.
+
+
 
 <!--
 **adenizgelir0/adenizgelir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
